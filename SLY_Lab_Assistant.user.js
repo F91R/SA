@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.3.7
 // @description  try to take over the world!
-// @author       SLY w/ Contributions by SkyLove512, anthonyra, niofox
+// @author       SLY w/ Contributions by SkyLove512, anthonyra, niofox da modificare?
 // @match        https://labs.staratlas.com/
 // @require      https://unpkg.com/@solana/web3.js@latest/lib/index.iife.min.js
 // @require      https://github.com/F91R/SA/blob/main/anchor-browserified.js
